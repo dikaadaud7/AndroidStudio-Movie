@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProjectAndro</string>
+    <string name="greetings">Welcome , </string>
+    <string name="heading_create">Create An Account</string>
+    <string name="heading_welcome">Welcome Back</string>
+    <string name="first_name">FirstName</string>
+    <string name="last_name">LastName</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">ConfirmPassword</string>
+    <string name="hide_password">HidePassword</string>
+    <string name="show_password">ShowPassword</string>
+    <string name="terms_and_conditions">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="terms_and_condition_header">Terms And Conditions</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="go_to_login">Already Have Account? Login</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="forgot_password">Forgot Your Password ?</string>
+    <string name="home_heading">Welcome Home</string>
+    <string name="dashboard">Dashboard</string>
+</resources>
